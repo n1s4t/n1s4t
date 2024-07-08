@@ -13,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/adibalnomantasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adibalnomantasin" height="30" width="40" /></a>
-<a href="https://instagram.com/noman7.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noman7.8" height="30" width="40" /></a>
 <a href="https://discord.gg/https://www.discord.gg/ants-community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.discord.gg/ants-community" height="30" width="40" /></a>
 </p>
 
