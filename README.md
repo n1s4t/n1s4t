@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **antscommunity@writeme.com**
 
+<tool-tip id="tooltip-144078d8-614a-49db-8956-019179210295" for="contribution-day-component-5-10" popover="manual" data-direction="n" data-type="label" data-view-component="true" class="position-absolute sr-only" aria-hidden="true" role="tooltip" style="--tool-tip-position-top: 2326.683349609375px; --tool-tip-position-left: 734.0166473388672px;">No contributions on August 9th.</tool-tip>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/qFreCA52rt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.discord.gg/ants-community" height="30" width="40" /></a>
