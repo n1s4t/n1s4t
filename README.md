@@ -1,25 +1,112 @@
-<h1 align="center">I'm N1s4t</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh </h3>
+<h1 align="center">Hi 👋, I'm N1s4t</h1>
+<h3 align="center">Frontend Developer • Cybersecurity Enthusiast • Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1s4t&label=Profile%20views&color=0e75b6&style=flat" alt="n1s4t" /> </p>
-
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aae18d6a7db253b742a95be379ec552c2eaf5f34eebacc17365d13823160c97f/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f636f64696e672d616e696d617465642d6c6170746f702d666c6f772d73747265616d2d6a613034303130726d356f36387a666b2e77656270"><img width="260" height="220" src="https://camo.githubusercontent.com/aae18d6a7db253b742a95be379ec552c2eaf5f34eebacc17365d13823160c97f/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f636f64696e672d616e696d617465642d6c6170746f702d666c6f772d73747265616d2d6a613034303130726d356f36387a666b2e77656270" data-canonical-src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" style="max-width: 100%;"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n1s4t&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="n1s4t" />
 </p>
 
-- 🔭 I’m currently working on **WebDev**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 
-- 🌱 I’m currently learning **Cracking**
+---
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+
+- 🔭 I'm currently working on **Web Development**
+- 🌱 I'm currently learning **Cybersecurity & Reverse Engineering**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- ⚡ Fun fact: **I love building cool stuff**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://discord.gg/qFreCA52rt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.discord.gg/ants-community" height="30" width="40" /></a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/dalalbro.bd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/dalalbro.bd" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/n1s4t" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1s4t&show_icons=true&locale=en&layout=compact" alt="n1s4t" /></p>
+### 🛠 Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&locale=en" alt="n1s4t" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,python,linux,git,github,vscode,firebase,mongodb" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1s4t&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=n1s4t&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1s4t&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1s4t&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1s4t&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1s4t&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1s4t&theme=tokyonight&utcOffset=6" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=n1s4t&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/n1s4t/n1s4t/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</p>
+
+---
+
+### 📌 Featured Project
+
+<a href="https://github.com/n1s4t/Sherlock-Installer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=n1s4t&repo=Sherlock-Installer&theme=tokyonight" />
+</a>
+
+---
+
+<h3 align="center">Bye</h3>
