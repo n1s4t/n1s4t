@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me
 
@@ -55,7 +55,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1s4t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="100%" max-width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1s4t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -63,8 +63,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="380" src="https://github-readme-streak-stats-eight.vercel.app/?user=n1s4t&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="100%" max-width="400" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="100%" max-width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=n1s4t&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -72,17 +75,17 @@
 ## 🏆 Profile Summary
 
 <p align="center">
-  <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1s4t&theme=tokyonight" />
+  <img width="100%" max-width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1s4t&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1s4t&theme=tokyonight" />
-  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1s4t&theme=tokyonight" />
+  <img width="100%" max-width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1s4t&theme=tokyonight" />
+  <img width="100%" max-width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1s4t&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1s4t&theme=tokyonight" />
-  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1s4t&theme=tokyonight&utcOffset=6" />
+  <img width="100%" max-width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1s4t&theme=tokyonight" />
+  <img width="100%" max-width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1s4t&theme=tokyonight&utcOffset=6" />
 </p>
 
 ---
@@ -90,12 +93,15 @@
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆-Open%20Source%20Contributor-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/⭐-Code%20Enthusiast-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔥-Always%20Building-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻-Frontend%20Dev-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔒-Security%20Learner-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/🚀-On%20The%20Rise-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆-Open%20Source-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐-Enthusiast-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥-Building-orange?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻-Frontend-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒-Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀-Rising-purple?style=flat-square" />
 </p>
 
 ---
@@ -103,7 +109,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="600" src="https://github.com/n1s4t/n1s4t/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <img width="100%" max-width="600" src="https://github.com/n1s4t/n1s4t/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </p>
 
 ---
@@ -112,7 +118,7 @@
 
 <p align="center">
   <a href="https://github.com/n1s4t/Sherlock-Installer">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=n1s4t&repo=Sherlock-Installer&theme=tokyonight&hide_border=true" />
+    <img width="100%" max-width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=n1s4t&repo=Sherlock-Installer&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
