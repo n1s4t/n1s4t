@@ -55,7 +55,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1s4t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1s4t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -63,8 +63,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="45%" src="https://github-readme-streak-stats-eight.vercel.app/?user=n1s4t&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="380" src="https://github-readme-streak-stats-eight.vercel.app/?user=n1s4t&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -72,17 +72,17 @@
 ## 🏆 Profile Summary
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1s4t&theme=tokyonight" />
+  <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1s4t&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1s4t&theme=tokyonight" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1s4t&theme=tokyonight" />
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1s4t&theme=tokyonight" />
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1s4t&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1s4t&theme=tokyonight" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1s4t&theme=tokyonight&utcOffset=6" />
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1s4t&theme=tokyonight" />
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1s4t&theme=tokyonight&utcOffset=6" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="80%" src="https://github.com/n1s4t/n1s4t/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <img width="600" src="https://github.com/n1s4t/n1s4t/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </p>
 
 ---
@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/n1s4t/Sherlock-Installer">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=n1s4t&repo=Sherlock-Installer&theme=tokyonight&hide_border=true" />
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=n1s4t&repo=Sherlock-Installer&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
