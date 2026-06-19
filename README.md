@@ -85,10 +85,11 @@
 
 ---
 
+
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1s4t&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=n1s4t&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </p>
 
 ---
