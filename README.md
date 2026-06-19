@@ -86,16 +86,7 @@
 ---
 
 
-## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=🏆%20Trophy%20Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=n1s4t&repo=Sherlock-Installer&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=n1s4t&repo=n1s4t&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
