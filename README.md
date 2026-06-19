@@ -2,16 +2,16 @@
 <h3 align="center">Frontend Developer • Cybersecurity Enthusiast • Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n1s4t&label=Profile%20Views&color=0e75b6&style=flat-square" alt="n1s4t" />
+  <img src="https://komarev.com/ghpvc/?username=n1s4t&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="n1s4t" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me
 
