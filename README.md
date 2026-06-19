@@ -86,10 +86,11 @@
 ---
 
 
-## 🏅 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1s4t&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n1s4t&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1s4t&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
